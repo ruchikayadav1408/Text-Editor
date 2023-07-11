@@ -14,8 +14,14 @@ Notepad is a simple notepad application: it can read, edit and create text files
 - Change Font Family
 
 ## Preview
+![Screenshot (236)](https://github.com/ruchikayadav1408/Text-Editor/assets/86114973/db4a7dfb-5a2e-4a8d-aeff-8ceb7f043167)
 
-![image]()
+
+
+![Screenshot (237)](https://github.com/ruchikayadav1408/Text-Editor/assets/86114973/a1b6b9f3-f60b-4ea4-8b64-9bd6d4dd30c7)
+
+
+
 --> Java based Notepad with Stack type clipboard to keep multiple strins in clipboard\
 --> Graphical User Interface made by Java Swing\
 --> A menu bar with follwing menus
