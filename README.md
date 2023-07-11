@@ -1,6 +1,8 @@
 # Notepad (TextEditor)
 Notepad is a simple notepad application: it can read, edit and create text files from the device storage or other apps.
- ![image](https://user-images.githubusercontent.com/89564330/171341934-785b951b-0900-417c-9f79-651c934c33fd.png)  
+
+
+https://github.com/ruchikayadav1408/Text-Editor/assets/86114973/cc9135f5-340a-4bed-afa2-d2716af2241d
 
 ## Features
 
@@ -31,6 +33,6 @@ Notepad is a simple notepad application: it can read, edit and create text files
  * 4. **Background colour** change
 
  ## Author
- ruchikayadav1408
+ @ruchikayadav1408
 
 
